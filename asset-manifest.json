@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09258962.css",
+    "main.js": "/static/js/main.c4c29b80.js",
+    "static/media/img1.png": "/static/media/img1.1cccf5f87abc2fda5ee8.png",
+    "static/media/img3.png": "/static/media/img3.e7e2069fb70199ed641d.png",
+    "static/media/hero.png": "/static/media/hero.e07867bbc191bb98baab.png",
+    "static/media/social4.png": "/static/media/social4.485af5db10e20874b206.png",
+    "static/media/social2.png": "/static/media/social2.da321a7c63ca025c09f2.png",
+    "static/media/social3.png": "/static/media/social3.ad2a0cd5189cc19e82b5.png",
+    "static/media/img2.jpg": "/static/media/img2.0700be2083d2be9e27dd.jpg",
+    "static/media/img2-sm.jpg": "/static/media/img2-sm.6c378fa39661c180b697.jpg",
+    "static/media/social1.png": "/static/media/social1.b73deec3736206a13216.png",
+    "static/media/topbar.svg": "/static/media/topbar.e51fdf3e3f3d9c2db988c113bfe64465.svg",
+    "static/media/navbar-logo.jpg": "/static/media/navbar-logo.a2db4a20c8e5b2f7ea07.jpg",
+    "static/media/pyp-card.svg": "/static/media/pyp-card.4676a6bf8a69215adaf43fecd9e53b40.svg",
+    "static/media/pyp-card-2.svg": "/static/media/pyp-card-2.98ca120ce63e8ab413117cc3ebffcc36.svg",
+    "index.html": "/index.html",
+    "main.09258962.css.map": "/static/css/main.09258962.css.map",
+    "main.c4c29b80.js.map": "/static/js/main.c4c29b80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09258962.css",
+    "static/js/main.c4c29b80.js"
+  ]
+}
