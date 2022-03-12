@@ -46,26 +46,3 @@ export const SocialButton = styled.button`
   letter-spacing: 1.5px;
   margin-bottom: 2rem;
 `;
-
-export const Squig1 = styled.img`
-  position: absolute;
-  width: 8rem;
-  top: 420%;
-  right: 22%;
-  z-index: 1;
-
-  @media screen and (max-width: 992px) {
-    display: none;
-  }
-`;
-
-export const Squig2 = styled.img`
-  position: absolute;
-  width: 8rem;
-  top: 370%;
-  left: 20%;
-  z-index: 1;
-  @media screen and (max-width: 992px) {
-    display: none;
-  }
-`;

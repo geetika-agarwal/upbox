@@ -11,11 +11,7 @@ import {
   SocialImg,
   SocialText,
   SocialTitle,
-  Squig1,
-  Squig2,
 } from "./SocialElements";
-import squig1 from "../../images/squig.png";
-import squig2 from "../../images/squig1.png";
 
 const SocialPost = () => {
   return (
@@ -29,7 +25,6 @@ const SocialPost = () => {
             <SocialImg src={social1} />
             <SocialText>How to rock the lip look that turns heads</SocialText>
           </SocialCol>
-          <Squig1 src={squig1} />
           <SocialCol lg={3} md={6} sm={12}>
             <SocialImg src={social2} />
             <SocialText>Find the perfect shade for the season</SocialText>
@@ -38,7 +33,6 @@ const SocialPost = () => {
             <SocialImg src={social3} />
             <SocialText>The 5 eye shadow secrets you never knew</SocialText>
           </SocialCol>
-          <Squig2 src={squig2} />
           <SocialCol lg={3} md={6} sm={12}>
             <SocialImg src={social4} />
             <SocialText>The pro-tips for at home hair dying</SocialText>

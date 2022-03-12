@@ -24,6 +24,7 @@ export const NavBarImage = styled.img`
   @media screen and (max-width: 840px) {
     margin-left: 20px;
   }
+
 `;
 
 export const NavBarTitle = styled.p`
