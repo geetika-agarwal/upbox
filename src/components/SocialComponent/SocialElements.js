@@ -50,7 +50,7 @@ export const SocialButton = styled.button`
 export const Squig1 = styled.img`
   position: absolute;
   width: 8rem;
-  top: 400%;
+  top: 420%;
   right: 22%;
   z-index: 1;
 
@@ -62,7 +62,7 @@ export const Squig1 = styled.img`
 export const Squig2 = styled.img`
   position: absolute;
   width: 8rem;
-  top: 350%;
+  top: 370%;
   left: 20%;
   z-index: 1;
   @media screen and (max-width: 992px) {
