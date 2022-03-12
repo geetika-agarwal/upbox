@@ -19,7 +19,7 @@ export const Navbarbrand = styled(Navbar.Brand)``;
 
 export const NavBarImage = styled.img`
   width: 65px;
-  height: 48px;
+  height: 54px;
   margin-left: 55px;
   @media screen and (max-width: 840px) {
     margin-left: 20px;
