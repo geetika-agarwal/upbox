@@ -29,19 +29,19 @@ const NavBar = () => {
             className="justify-content-end"
           >
             <Nav className="justify-content-end">
-              <Navlink href="#" claasName="navbar-brand">
+              <Navlink href="#" className="navbar-brand">
                 THIS MONTH
               </Navlink>
-              <Navlink href="#" claasName="navbar-brand">
+              <Navlink href="#" className="navbar-brand">
                 SKIN
               </Navlink>
-              <Navlink href="#" claasName="navbar-brand">
+              <Navlink href="#" className="navbar-brand">
                 HAIR
               </Navlink>
-              <Navlink href="#" claasName="navbar-brand">
+              <Navlink href="#" className="navbar-brand">
                 BATH
               </Navlink>
-              <Navlink href="#" claasName="navbar-brand">
+              <Navlink href="#" className="navbar-brand">
                 SALE
               </Navlink>
               <NavButton>

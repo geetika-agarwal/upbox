@@ -19,9 +19,9 @@ export const HeroCol = styled(Col)``;
 export const HeroTitle = styled.h1`
   margin-top: 8rem;
   margin-left: 4rem;
-  font-weight: 900;
   font-size: 48px;
   line-height: 56px;
+  font-family: "DM Serif Display";
 
   @media screen and (max-width: 965px) {
     margin-top: 5rem;

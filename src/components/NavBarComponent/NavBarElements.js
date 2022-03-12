@@ -12,7 +12,7 @@ export const Topbar = styled.img`
 
 export const ReactNavbar = styled(Navbar)`
   padding: 0;
-  padding-top: 10px;
+  padding-top: 2px;
 `;
 
 export const Navbarbrand = styled(Navbar.Brand)``;
@@ -51,7 +51,7 @@ export const Navlink = styled(Nav.Link)`
 export const NavButton = styled.button`
   width: 7rem;
   margin 0 30px;
-  height: 2.7rem;
+  height: 2.3rem;
   background-color: #fff;
   border-radius: 2rem;
   padding: 0 10px;
